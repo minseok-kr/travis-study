@@ -4,3 +4,7 @@ python:
 
 # command to run tests
 script: pytest sourcecode.py
+
+# connect with slack channel
+notifications:
+    slack: minseokkrdeve-k1o6577:aRqplSS1MLvchy5aPNPteUBi
